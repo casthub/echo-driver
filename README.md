@@ -1,4 +1,13 @@
-# Echo Driver
+<div align="center">
+    <a href="https://www.npmjs.com/package/@casthub/echo-driver" target="_blank">
+        <img src="https://img.shields.io/npm/v/@casthub/echo-driver?style=flat-square" alt="NPM" />
+    </a>
+    <a href="https://discord.gg/XMrHXtN" target="_blank">
+        <img src="https://img.shields.io/discord/123906549860139008?color=7289DA&label=discord&logo=discord&logoColor=FFFFFF&style=flat-square" alt="Discord" />
+    </a>
+    <img src="https://img.shields.io/npm/l/@casthub/echo-driver?style=flat-square" alt="Apache-2.0" />
+    <h3>Echo Driver for AWS API Gateway</h3>
+</div>
 
 This is a [Laravel Echo](https://laravel.com/docs/8.x/broadcasting) Driver for AWS API Gateway WebSockets, developed for use in [CastHub](https://casthub.app).
 
