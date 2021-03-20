@@ -1,10 +1,10 @@
 {
     "name": "@casthub/echo-driver",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "AWS API Gateway Driver for Laravel Echo",
-    "main": "./lib/index.js",
-    "types": "./lib/index.d.ts",
-    "files": ["./lib"],
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "files": ["/lib"],
     "license": "Apache-2.0",
     "author": {
         "name": "CastHub Limited",

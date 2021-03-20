@@ -1,4 +1,4 @@
-import Broadcaster from './index';
+import { Broadcaster } from './index';
 
 export default class Subscription {
     name: string;

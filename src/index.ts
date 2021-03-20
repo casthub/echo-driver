@@ -8,7 +8,7 @@ export interface Options {
     };
 }
 
-export default class Broadcaster {
+export class Broadcaster {
     connection: Connection;
     options: Options;
     private subscriptions: { [name: string]: Subscription } = {};
